@@ -1,4 +1,4 @@
-package com.iphayao.demo.model;
+package model;
 
 public class PetType {
     private String name;

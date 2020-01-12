@@ -1,4 +1,4 @@
-package com.iphayao.demo.model;
+package model;
 
 public class Owner extends Person {
 }
